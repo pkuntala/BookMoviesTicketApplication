@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>theatres</key>
+	<array>
+		<dict>
+			<key>theatreName</key>
+			<string>PVR Pacific Mall, Subash Nagar</string>
+			<key>theatreLoc</key>
+			<string>Delhi</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Wave Cinema</string>
+			<key>theatreLoc</key>
+			<string>Delhi</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>The Movie Hall</string>
+			<key>theatreLoc</key>
+			<string>Delhi</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Shiela Theatre</string>
+			<key>theatreLoc</key>
+			<string>Delhi</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>PVR ECX</string>
+			<key>theatreLoc</key>
+			<string>Delhi</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Amba Cinema</string>
+			<key>theatreLoc</key>
+			<string>Delhi</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Akshara Theatre</string>
+			<key>theatreLoc</key>
+			<string>Delhi</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Delite Cinemas</string>
+			<key>theatreLoc</key>
+			<string>Delhi</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>New Royal Cinema</string>
+			<key>theatreLoc</key>
+			<string>Kolkata</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Paradise Cinemas Hall</string>
+			<key>theatreLoc</key>
+			<string>Kolkata</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>INOX</string>
+			<key>theatreLoc</key>
+			<string>Kolkata</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Carnival Cinemas Kolkata</string>
+			<key>theatreLoc</key>
+			<string>Kolkata</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Park Show House</string>
+			<key>theatreLoc</key>
+			<string>Kolkata</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>PVR Cinemas</string>
+			<key>theatreLoc</key>
+			<string>Kolkata</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Minerva Theatre</string>
+			<key>theatreLoc</key>
+			<string>Kolkata</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Star Theatre</string>
+			<key>theatreLoc</key>
+			<string>Kolkata</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Urvasi Theatre</string>
+			<key>theatreLoc</key>
+			<string>Vizag</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Mohini Cinemas</string>
+			<key>theatreLoc</key>
+			<string>Vizag</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Ramadevi Theatre</string>
+			<key>theatreLoc</key>
+			<string>Vizag</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>INOX</string>
+			<key>theatreLoc</key>
+			<string>Vizag</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Sree Kanya Movie Theatre</string>
+			<key>theatreLoc</key>
+			<string>Vizag</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Kameshwari &amp; Kinnera</string>
+			<key>theatreLoc</key>
+			<string>Vizag</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Melody Theatre</string>
+			<key>theatreLoc</key>
+			<string>Vizag</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Jagadamba Theatre</string>
+			<key>theatreLoc</key>
+			<string>Vizag</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Prithvi Theatre</string>
+			<key>theatreLoc</key>
+			<string>Mumbai</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Metro INOX Cinema</string>
+			<key>theatreLoc</key>
+			<string>Mumbai</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Orama 4D Theatre</string>
+			<key>theatreLoc</key>
+			<string>Mumbai</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Regal Cinemas</string>
+			<key>theatreLoc</key>
+			<string>Mumbai</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Sterling Cineplex</string>
+			<key>theatreLoc</key>
+			<string>Mumbai</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Maratha Mandir Theatre</string>
+			<key>theatreLoc</key>
+			<string>Mumbai</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>AGS Cinemas</string>
+			<key>theatreLoc</key>
+			<string>Chennai</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Woodland Cinemas</string>
+			<key>theatreLoc</key>
+			<string>Chennai</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>M.M Theatre</string>
+			<key>theatreLoc</key>
+			<string>Chennai</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>GanaPathy Ram Theatre</string>
+			<key>theatreLoc</key>
+			<string>Chennai</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>PVR Cinemas</string>
+			<key>theatreLoc</key>
+			<string>Chennai</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Udhayam Theatre</string>
+			<key>theatreLoc</key>
+			<string>Chennai</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Aruna Theatre</string>
+			<key>theatreLoc</key>
+			<string>Bangalore</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Abhinaya Theatre</string>
+			<key>theatreLoc</key>
+			<string>Bangalore</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Urvashi Theatre</string>
+			<key>theatreLoc</key>
+			<string>Bangalore</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Galaxy Paradise</string>
+			<key>theatreLoc</key>
+			<string>Bangalore</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>IMax</string>
+			<key>theatreLoc</key>
+			<string>Bangalore</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Gopalan Cinemas</string>
+			<key>theatreLoc</key>
+			<string>Bangalore</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>INOX</string>
+			<key>theatreLoc</key>
+			<string>Bangalore</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>PVR Cinemas</string>
+			<key>theatreLoc</key>
+			<string>Bangalore</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Aaradhana Theatre</string>
+			<key>theatreLoc</key>
+			<string>Hyderabad</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>PVR - Gachibowli</string>
+			<key>theatreLoc</key>
+			<string>Hyderabad</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>IMax</string>
+			<key>theatreLoc</key>
+			<string>Hyderabad</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Noma Talkies</string>
+			<key>theatreLoc</key>
+			<string>Hyderabad</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Asian Radhika</string>
+			<key>theatreLoc</key>
+			<string>Hyderabad</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>InOrbit Mall</string>
+			<key>theatreLoc</key>
+			<string>Hyderabad</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>AMB Cinemas</string>
+			<key>theatreLoc</key>
+			<string>Hyderabad</string>
+		</dict>
+		<dict>
+			<key>theatreName</key>
+			<string>Cauvery Theatre</string>
+			<key>theatreLoc</key>
+			<string>Bangalore</string>
+		</dict>
+	</array>
+	<key>movies</key>
+	<array>
+		<dict>
+			<key>movieLocation</key>
+			<string>Chennai Bangalore</string>
+			<key>releaseDate</key>
+			<string>12 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>sabhaapathy</string>
+			<key>movieLanguage</key>
+			<string>Tamil</string>
+			<key>movieDescription</key>
+			<string>Sabhaapathy is a Tamil movie starring Santhanam in prominent role. It is a drama directed by R Srinivasa Rao.</string>
+			<key>genre</key>
+			<string>Thriller, Comedy</string>
+			<key>numberOfHours</key>
+			<string>2h 21m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Sabhaapathy</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Chennai Bangalore</string>
+			<key>releaseDate</key>
+			<string>12 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>Theri</string>
+			<key>movieLanguage</key>
+			<string>Tamil</string>
+			<key>movieDescription</key>
+			<string>Theri is a thriller starring Vijay in the role of a policeman who takes revenge on the villain after his family is attacked.</string>
+			<key>genre</key>
+			<string>Thriller, Comedy</string>
+			<key>numberOfHours</key>
+			<string>2h 21m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Theri</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Chennai Bangalore Kolkata</string>
+			<key>releaseDate</key>
+			<string>12 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>Lalbhag</string>
+			<key>movieLanguage</key>
+			<string>Tamil</string>
+			<key>movieDescription</key>
+			<string>Lalbagh is a thriller film directed by Lalbagh, featuring Mamta Mohandas and Rahul Madhav in prominent roles.</string>
+			<key>genre</key>
+			<string>Thriller, Comedy</string>
+			<key>numberOfHours</key>
+			<string>2h 21m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Lalbagh</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Hyderabad Vizag Bangalore Kolkata Delhi Mumbai</string>
+			<key>releaseDate</key>
+			<string>12 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>Chennai Express</string>
+			<key>movieLanguage</key>
+			<string>Hindi</string>
+			<key>movieDescription</key>
+			<string>Chennai Express` is a rom-com about a man`s journey from Mumbai to Rameshwaram and what happens during the journey. The film stars Shahrukh Khan and Deepika Padukone in pivotal roles and will be their second film together after `Om Shanti Om`. Nikitin Dheer and Priyamani are some of the film`s supporting actors. Rohit Shetty and Gauri Khan have jointly produced `Chennai Express` under Red Chillies Entertainment. The film also marks the first collaboration between SRK and Rohit Shetty.</string>
+			<key>genre</key>
+			<string>Thriller, Comedy</string>
+			<key>numberOfHours</key>
+			<string>2h 21m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Chennai Express</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Hyderabad Vizag Bangalore Kolkata Delhi Mumbai Chennai</string>
+			<key>releaseDate</key>
+			<string>12 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>Bajrangi2</string>
+			<key>movieLanguage</key>
+			<string>Kannada</string>
+			<key>movieDescription</key>
+			<string>What happens when an honest forest officer Bhajarangi crosses paths with evil that has descended to destroy the earth.</string>
+			<key>genre</key>
+			<string>Thriller, Comedy</string>
+			<key>numberOfHours</key>
+			<string>2h 21m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Bhajarangi 2</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Bangalore Mumbai Kolkata</string>
+			<key>releaseDate</key>
+			<string>12 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>Salaga</string>
+			<key>movieLanguage</key>
+			<string>Kannada</string>
+			<key>movieDescription</key>
+			<string>Vijaykumar, alias Salaga, is unknowingly pulled into the realm of the underworld. Samrat, an honest and upright cop, sees through him and decides to bring about justice.</string>
+			<key>genre</key>
+			<string>Thriller, Comedy</string>
+			<key>numberOfHours</key>
+			<string>2h 21m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Salaga</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Hyderabad Vizag Mumbai Delhi</string>
+			<key>releaseDate</key>
+			<string>12 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>Talaash</string>
+			<key>movieLanguage</key>
+			<string>Hindi</string>
+			<key>movieDescription</key>
+			<string>Seeing reflections of Mumbai under the red light, `Talaash` is a tale of love lost, fatal attraction and above all the quest to solve a perfect crime. Suspense at its core, `Talaash` explores Mumbai`s underbelly like never before.</string>
+			<key>genre</key>
+			<string>Thriller, Comedy</string>
+			<key>numberOfHours</key>
+			<string>2h 21m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Talaash</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Hyderabad Vizag Mumbai Delhi</string>
+			<key>releaseDate</key>
+			<string>12 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>Ae Dil</string>
+			<key>movieLanguage</key>
+			<string>Hindi</string>
+			<key>movieDescription</key>
+			<string>Alizeh finds her soulmate in Ayan. She, however, loves him only as a friend but Ayan falls in love with her, wanting to take their relationship to the next level.</string>
+			<key>genre</key>
+			<string>Thriller, Comedy</string>
+			<key>numberOfHours</key>
+			<string>2h 21m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Ae Dil Hai Mushkil</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Bangalore Hyderabad Kolkata Chennai Mumbai Delhi Vizag</string>
+			<key>releaseDate</key>
+			<string>31 Mar, 2017</string>
+			<key>movieImgName</key>
+			<string>TheBossBaby</string>
+			<key>movieLanguage</key>
+			<string>English</string>
+			<key>movieDescription</key>
+			<string>Seven-year-old Tim is not happy when The Boss Baby arrives home. But their sibling rivalry is cast aside when Tim discovers that Boss Baby is a spy on a secret undercover mission.</string>
+			<key>genre</key>
+			<string>Animation, Comedy</string>
+			<key>numberOfHours</key>
+			<string>2h 45m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>The Boss Baby</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Bangalore Hyderabad Kolkata Chennai Mumbai Delhi Vizag</string>
+			<key>releaseDate</key>
+			<string>12 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>LastNightInSoho</string>
+			<key>movieLanguage</key>
+			<string>English</string>
+			<key>movieDescription</key>
+			<string>A young girl, passionate about fashion design, is mysteriously able to enter the 1960s where she encounters her idol, a dazzling wannabe singer.</string>
+			<key>genre</key>
+			<string>Animation, Comedy</string>
+			<key>numberOfHours</key>
+			<string>1h 58m</string>
+			<key>rating</key>
+			<string>7/10</string>
+			<key>name</key>
+			<string>Last Night In Soho</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Bangalore Hyderabad Kolkata Chennai Mumbai Delhi Vizag</string>
+			<key>releaseDate</key>
+			<string>5 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>Eternals</string>
+			<key>movieLanguage</key>
+			<string>English</string>
+			<key>movieDescription</key>
+			<string>Based on Jack Kirby`s Eternals, Marvel Studios brings yet another thrilling superhero flick with the saga of The Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.</string>
+			<key>genre</key>
+			<string>Adventure, Action</string>
+			<key>numberOfHours</key>
+			<string>2h 36m</string>
+			<key>rating</key>
+			<string>8/10</string>
+			<key>name</key>
+			<string>Eternals</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Bangalore Hyderabad Kolkata Chennai Mumbai Delhi Vizag</string>
+			<key>releaseDate</key>
+			<string>22 Oct, 2021</string>
+			<key>movieImgName</key>
+			<string>Dune</string>
+			<key>movieLanguage</key>
+			<string>English</string>
+			<key>movieDescription</key>
+			<string>Feature adaptation of Frank Herbert`s science fiction novel, Dune revolves around Paul Atreides, who leads nomadic tribes in a battle to control the desert planet Arrakis.</string>
+			<key>genre</key>
+			<string>Action, Adventure, Drama</string>
+			<key>numberOfHours</key>
+			<string>2h 35m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Dune</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Bangalore Hyderabad Kolkata Chennai Mumbai Delhi Vizag</string>
+			<key>releaseDate</key>
+			<string>14 Oct, 2021</string>
+			<key>movieImgName</key>
+			<string>venom</string>
+			<key>movieLanguage</key>
+			<string>English</string>
+			<key>movieDescription</key>
+			<string>When deranged serial killer Cletus Kasady becomes host to an alien symbiote, Eddie Brock and Venom must put aside their differences to stop his reign of terror.</string>
+			<key>genre</key>
+			<string>Action, Sci-Fi</string>
+			<key>numberOfHours</key>
+			<string>1hr 53m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Venom</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Hyderabad Vizag</string>
+			<key>releaseDate</key>
+			<string>12 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>Kurup</string>
+			<key>movieLanguage</key>
+			<string>Telugu</string>
+			<key>movieDescription</key>
+			<string>Drawing inspiration from a real-life incident, Kurup is an adventure drama which is based on Kerala`s most eluding criminal who has been on the run since the mid-1980s.</string>
+			<key>genre</key>
+			<string>Crime, Drama, Thriller</string>
+			<key>numberOfHours</key>
+			<string>2h 36m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Kurup</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Bangalore Hyderabad Kolkata Chennai Mumbai Vizag</string>
+			<key>releaseDate</key>
+			<string>4 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>Peddanna</string>
+			<key>movieLanguage</key>
+			<string>Telugu</string>
+			<key>movieDescription</key>
+			<string>Peddanna is a drama-action film directed by Siva, featuring Rajinikanth and Meena in prominent roles.</string>
+			<key>genre</key>
+			<string>Action, Drama</string>
+			<key>numberOfHours</key>
+			<string>2h 43m</string>
+			<key>rating</key>
+			<string>6/10</string>
+			<key>name</key>
+			<string>Peddanna</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Bangalore Hyderabad Kolkata Chennai Mumbai Delhi Vizag</string>
+			<key>releaseDate</key>
+			<string>12 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>PushpakaVimanam</string>
+			<key>movieLanguage</key>
+			<string>Telugu</string>
+			<key>movieDescription</key>
+			<string>Pushpaka Vimanam is a comedy thriller directed by Damodara , starring Anand Deverakonda as Chittilanka Sundar, Geeth Saini as Meenakshi and Saanve Megghana as Rekha. This wholesome entertainer is presented by Vijay Deverakonda and produced by Govardhana rao Deverakonda, Vijay Mattapally, Pradeep Errabelly</string>
+			<key>genre</key>
+			<string>Thriller, Comedy</string>
+			<key>numberOfHours</key>
+			<string>2h 21m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Pushpaka Vimanam</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Bangalore Hyderabad Kolkata Mumbai Vizag</string>
+			<key>releaseDate</key>
+			<string>12 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>RajaVikramarka</string>
+			<key>movieLanguage</key>
+			<string>Telugu</string>
+			<key>movieDescription</key>
+			<string>Raja Vikramarka is a newly recruited N.I.A. Officer who is getting accustomed to the nuances of his new job and his first major case takes a drastic turn.</string>
+			<key>genre</key>
+			<string>Action, Comedy</string>
+			<key>numberOfHours</key>
+			<string>2h 19m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Rajavikramarka</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Hyderabad Vizag Bangalore</string>
+			<key>releaseDate</key>
+			<string>29 Oct, 2021</string>
+			<key>movieImgName</key>
+			<string>VaruduKavalenu</string>
+			<key>movieLanguage</key>
+			<string>Telugu</string>
+			<key>movieDescription</key>
+			<string>Directed by debutante Lakshmi Sowjanya &amp; Produced by Suryadevara Naga Vamsi, Varudu Kaavalenu is a Telugu film featuring Naga Shaurya and Ritu Varma in lead roles.
+Directed by debutante Lakshmi Sowjanya &amp; Produced by Suryadevara Naga Vamsi, Varudu Kaavalenu is a Telugu film featuring Naga Shaurya and Ritu Varma in lead roles.
+Directed by debutante Lakshmi Sowjanya &amp; Produced by Suryadevara Naga Vamsi, Varudu Kaavalenu is a Telugu film featuring Naga Shaurya and Ritu Varma in lead roles.
+</string>
+			<key>genre</key>
+			<string>Comedy, Romantic</string>
+			<key>numberOfHours</key>
+			<string>2h 13m</string>
+			<key>rating</key>
+			<string>8/10</string>
+			<key>name</key>
+			<string>Varudu Kavalenu</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Bangalore Hyderabad Kolkata Chennai Mumbai Delhi Vizag</string>
+			<key>releaseDate</key>
+			<string>5 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>Sooryavanshi</string>
+			<key>movieLanguage</key>
+			<string>Hindi</string>
+			<key>movieDescription</key>
+			<string>Starting off from where Akshay Kumar`s character was introduced in Simmba, Sooryavanshi traces the acts and serious antics of DCP Veer Sooryavanshi, the chief of the Anti-Terrorism Squad in India.</string>
+			<key>genre</key>
+			<string>Action, Comedy, Drama</string>
+			<key>numberOfHours</key>
+			<string>2h 25m</string>
+			<key>rating</key>
+			<string>9/10</string>
+			<key>name</key>
+			<string>Soorya Vanshi</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Bangalore Kolkata Chennai Mumbai</string>
+			<key>releaseDate</key>
+			<string>12 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>PremamPoojyam</string>
+			<key>movieLanguage</key>
+			<string>Kannada</string>
+			<key>movieDescription</key>
+			<string>Premam Poojyam is a Kannada movie starring Prem Kumar, Brinda Acharya and Aindrita Ray in prominent roles. It is a drama directed &amp; composed by Dr. Raghavendra. B. S with Naveen Kumar as cinematographer, forming part of the crew.</string>
+			<key>genre</key>
+			<string>Drama, Romantic</string>
+			<key>numberOfHours</key>
+			<string>2h 53m</string>
+			<key>rating</key>
+			<string>8/10</string>
+			<key>name</key>
+			<string>Premam Poojyam</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Bangalore Hyderabad Kolkata Chennai Mumbai Vizag</string>
+			<key>releaseDate</key>
+			<string>4 Nov, 2021</string>
+			<key>movieImgName</key>
+			<string>Annathe</string>
+			<key>movieLanguage</key>
+			<string>Tamil</string>
+			<key>movieDescription</key>
+			<string>Annaatthe is a drama-action film directed by Siva, featuring Rajinikanth and Meena in prominent roles.</string>
+			<key>genre</key>
+			<string>Animation, Comedy, Drama</string>
+			<key>numberOfHours</key>
+			<string>2h 45m</string>
+			<key>rating</key>
+			<string>6/10</string>
+			<key>name</key>
+			<string>annatthe</string>
+		</dict>
+		<dict>
+			<key>movieLocation</key>
+			<string>Bangalore Kolkata Chennai Mumbai Delhi</string>
+			<key>movieImgName</key>
+			<string>Enemy</string>
+			<key>movieLanguage</key>
+			<string>Tamil</string>
+			<key>movieDescription</key>
+			<string>ENEMY is an action thriller starring Vishal, Arya, Prakash Raj, Thambi Ramaiyya and others. It`s the story of two childhood friends and their escalating competitive nature. To what extent are they ready to go?</string>
+			<key>genre</key>
+			<string>Action, Thriller</string>
+			<key>numberOfHours</key>
+			<string>2h 39m</string>
+			<key>rating</key>
+			<string>8/10</string>
+			<key>name</key>
+			<string>Enemy</string>
+			<key>releaseDate</key>
+			<string>4 Nov, 2021</string>
+		</dict>
+	</array>
+</dict>
+</plist>

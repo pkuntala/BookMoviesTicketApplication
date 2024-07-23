@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19461" systemVersion="20G224" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Movie" representedClassName="Movie" syncable="YES">
+        <attribute name="genre" optional="YES" attributeType="String"/>
+        <attribute name="movieDescription" optional="YES" attributeType="String"/>
+        <attribute name="movieImgName" optional="YES" attributeType="String"/>
+        <attribute name="movieLanguage" optional="YES" attributeType="String"/>
+        <attribute name="movieLocation" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="noOfHours" optional="YES" attributeType="String"/>
+        <attribute name="rating" optional="YES" attributeType="String"/>
+        <attribute name="releaseDate" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Theatre" representedClassName="Theatre" syncable="YES">
+        <attribute name="tlocation" optional="YES" attributeType="String"/>
+        <attribute name="tname" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Movie" positionX="-63" positionY="-18" width="128" height="164"/>
+        <element name="Theatre" positionX="-54" positionY="54" width="128" height="59"/>
+    </elements>
+</model>
